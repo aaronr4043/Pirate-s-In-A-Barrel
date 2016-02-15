@@ -1,0 +1,31 @@
+Tower Defense Game Aaron Amber and Paul
+
+Add to this as you see fit, this is only provisional
+
+Enemy requirements
+	- Speed
+	- Hp
+	- Strength
+	- Value
+	- Attack Type?
+	- Sound
+
+Tower requirements
+	- Reload time
+	- Tier - Upgrade Price - Repair Price 
+	- Player X and Y Co-ords (For player controlled attacks)
+	- Attack Type
+	- Sound
+
+River Attack Requirements
+	- Speed
+	- Strength
+	- Hp?
+	- Radius Damage? Explosions
+	- Sound
+
+Attack Requirements
+	- Speed 
+	- Strength
+	- Sound
+
