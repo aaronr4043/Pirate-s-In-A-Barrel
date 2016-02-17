@@ -6,11 +6,11 @@ public class GameObject : MonoBehaviour
 
 	public class Objects
 	{
-		public float speed;
-		public float x;
+		public float speed; // Set this to 0 for towers
+		public float x; // Co- Ords for each game object
 		public float y;
 		public float z;
-		public float healthpoints;
+		public float healthpoints; // initialise as 0 for Projectiles
 	}
 
 	// Use this for initialization
