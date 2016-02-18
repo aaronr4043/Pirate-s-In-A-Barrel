@@ -3,9 +3,12 @@ using System.Collections;
 
 public class EnemyShips : GameObject
 {
-
-	// Use this for initialization
-	void Start ()
+    public class Ships
+    {
+        
+    }
+    // Use this for initialization
+    void Start ()
 	{
 	
 	}

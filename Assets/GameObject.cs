@@ -11,6 +11,7 @@ public class GameObject : MonoBehaviour
 		public float y;
 		public float z;
 		public float healthpoints; // initialise as 0 for Projectiles
+        public float value = 0;
 	}
 
 	// Use this for initialization
