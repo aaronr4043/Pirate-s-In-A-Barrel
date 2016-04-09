@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class UIManagerScript : MonoBehaviour
@@ -27,4 +27,3 @@ public class UIManagerScript : MonoBehaviour
         Application.Quit();
     }
 }
-
